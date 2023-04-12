@@ -36,7 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/media/ad-ds-installation-and-removal-wizard-page-descriptions/adds_smi_deploymentconfiguration_childdomain.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create the domain controller virtual machine (Windows Server 2022) named “DC-1”. Set domain controller’s NIC Private IP address to be static.
